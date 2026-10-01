@@ -1,8 +1,8 @@
 class Spinuptui < Formula
   desc "Terminal dashboard for browsing, monitoring, and managing SpinupWP servers"
   homepage "https://github.com/mwender/spinupwp-tui"
-  url "https://registry.npmjs.org/spinuptui/-/spinuptui-1.1.0.tgz"
-  sha256 "5d8d8acc994125e21c3cd17771397a17440f644190df9ca3806379e15c9adbfc"
+  url "https://registry.npmjs.org/spinuptui/-/spinuptui-1.1.1.tgz"
+  sha256 "57ad75a2260c8fa96444391d2e417281ca0820681658bd624781e13ee1b00f43"
   license "MIT"
 
   depends_on "bun"
